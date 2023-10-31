@@ -1,0 +1,232 @@
+{
+  "META": {
+    "repoName": "Slightly Less Than Legal",
+    "repoIcon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/repoimage.png"
+  },
+  "Hacked Apps": [
+    {
+      "name": "Youtube+",
+      "version": "v1.0.0",
+      "down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.14.1-3.0/uYouPlus_18.14.1_3.0.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Apps",
+      "description": "This version of youtube allows you to download videos, view dislikes, and watch ad-free",
+      "bundleID": "Test.Youtube.UnderGround",
+      "contact": {
+        "web": "https://github.com/RepoMasterS/UndergroundRepo",
+        "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Ipogo+",
+      "version": "v1.0.0",
+      "down": "https://ipogo.app/download/ipogo-3.1.7.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Pokemon Go Hacked Version",
+      "bundleID": "Pokemon.AaronC.Pokemon",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Fake Cashapp",
+      "version": "v1.0.0",
+      "down": "https://ipa.cypwn.xyz/ipas/PropCashapp.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Apps",
+      "description": "Fake version of cash app to add money and troll friends",
+      "bundleID": "cashapp.AaronC.cashapp",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "BeReal Unblur",
+      "version": "v1.0.0",
+      "down": "https://ipa.cypwn.xyz/ipas/BeReal_0.31.0.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Apps",
+      "description": "Unblur your friends bereal posts",
+      "bundleID": "bereal.AaronC.bereal",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      } 
+    }, 
+    {
+      "name": "Clash Of Clans",
+      "version": "v1.0.0",
+      "down": "http://94.142.139.173/sign/nullsclash.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Private server for clash of clans with inf money elixer and 500k gems",
+      "bundleID": "cr.AaronC.cr",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Clash Royale",
+      "version": "v1.0.0",
+      "down": "http://94.142.139.173/sign/nullsroyale.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Private server for Clash Royale with inf currency and unlock all cards",
+      "bundleID": "cre.AaronC.cre",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Brawl Stars",
+      "version": "v1.0.0",
+      "down": "http://94.142.139.173/sign/nullsbrawl.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Private server for Brawl Starts with inf currency and unlock all cards",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Minecraft",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Minecraft.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Its just a free version of minecraft",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Bloons TD 6",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Bloons-TD-6.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Its just a free version of Bloons TD 6",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Geometry Dash",
+      "version": "v1.0.0",
+      "down": "https://download1334.mediafire.com/5j42bmzwchjgQjBE3Yo4R8rCgbO96SUABBdNIxeQ-adJIz0GFK5sBaVu7W7pDQEtNBER9XNFMWDgSUWe7xqa-dRVbm_Qw3s52Ht5I-7-XvoYalVsChGIjvXh5PfPyg0E7nW4qyIq2vaKTF5Etrah2RNHaIUdRKLzWTS28XQS6AB0/nh1eiomygtkdoy6/Geometry-Dash-v2-113.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Its just a free version of Geometry Dash",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Corssy Road",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Crossy-Road.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Hacked Games",
+      "description": "Modded version of crossy road with unlocked items",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Fnaf Sister Location",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at-Freddys.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Fnaf 2",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at%20Freddys.2.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "cree.AaronC.cree",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Fnaf 3",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at%20Freddys.3.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "creeeeeee.AaronC.creeeeeeee",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+     {
+      "name": "Fnaf 4",
+      "version": "v1.0.0",
+      "down": "https://omtk.xyz/IPA/Five-Nights-at-Freddys-4.ipa",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Free Fnaf Game",
+      "bundleID": "creeeee.AaronC.creeeeeeeee",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    },
+    {
+      "name": "Spotify ++",
+      "version": "v1.0.0",
+      "down": "https://www.mediafire.com/file/nymxhur5a1oymkm/Spotify_2B2B_8.8.2.ipa/file",
+      "dev": "Aaron Corcoran",
+      "icon": "https://raw.githubusercontent.com/RepoMasterS/UndergroundRepo/main/1App%20Icon.png",
+      "category": "Aaron's Free Games",
+      "description": "Spotify with inf skips and select songs",
+      "bundleID": "Spotify.AaronC.spotify++",
+      "contact": {
+       "web": "https://github.com/RepoMasterS/UndergroundRepo",
+       "github": "https://github.com/RepoMasterS/UndergroundRepo"
+      }
+    }
+  ]
+}
